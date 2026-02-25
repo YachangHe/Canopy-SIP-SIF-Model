@@ -75,7 +75,7 @@ This model represents a continuous effort in canopy radiative transfer modeling.
     > Zeng, Yelu, Grayson Badgley, Min Chen, Jing Li, Leander DL Anderegg, Ari Kornfeld, Qinhuo Liu et al. "A radiative transfer model for solar induced fluorescence using spectral invariants theory." Remote Sensing of Environment 240 (2020): 111678.
 * **PATH_RT Model**: Parts of the sub-functions used for calculating the four-component gap fractions and hotspot effects are derived from the PATH_RT model developed by Dr. Weihua Li and colleagues.
     > Li, W., Yan, G., Mu, X., Tong, Y., Zhou, K., & Xie, D. (2024). Modeling the hotspot effect for vegetation canopies based on path length distribution. *Remote Sensing of Environment*, 303, 113985.
-* **LESS Model**: The validation of our discrete canopy model simulations was conducted using the LESS framework.
+* **LESS Model**: The comparison of our discrete canopy model simulations was conducted using the LESS framework.
     > Qi, J., Xie, D., Yin, T., Yan, G., Gastellu-Etchegorry, J. P., Li, L., Zhang, W., Mu, X., & Norford, L. K. (2019). LESS: LargE-Scale remote sensing data and image simulation framework over heterogeneous 3D scenes. *Remote Sensing of Environment*, 221, 695-706.
 
 \## License
